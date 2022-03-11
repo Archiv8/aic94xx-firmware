@@ -1,5 +1,16 @@
+#!/bin/bash
+
+# Disable various shellcheck rules that produce false positives in this file.
+# Repository rules should be added to the .shellcheckrc file located in the
+# repository root directory, see https://github.com/koalaman/shellcheck/wiki
+# and https://archiv8.github.io for further information.
+# ToDo: Add files: user documentation
+# Todo: Add files: tooling
+# Todo: Fix namcap warnings and errors
+
 # Maintainer: Pedro Gabriel <pedrogabriel@dcc.ufmg.br>
 # Maintainer: FadeMind <fademind@gmail.com>
+# Contributor: Ross Clark <archiv8@artisteducator.com>
 
 _fwname=aic94xx
 pkgname=${_fwname}-firmware
