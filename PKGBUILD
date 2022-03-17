@@ -13,8 +13,6 @@
 # Maintainer: FadeMind <fademind@gmail.com>
 # Contributor: Ross Clark <archiv8@artisteducator.com>
 
-
-
 _fwname=aic94xx
 
 
